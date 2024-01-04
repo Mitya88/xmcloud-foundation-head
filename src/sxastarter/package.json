@@ -50,7 +50,7 @@
     "sass-alias": "^1.0.5"
   },
   "devDependencies": {
-    "@graphql-codegen/cli": "^1.21.8",
+    "@graphql-codegen/cli": "^5.0.0",
     "@graphql-codegen/import-types-preset": "^2.2.6",
     "@graphql-codegen/plugin-helpers": "^3.1.2",
     "@graphql-codegen/typed-document-node": "^2.3.12",
